@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello GIT!\n";
 
-    std::cout << "PullRequest Branch Changed!\n";
+    std::cout << "GitHub　CLONE Changed!\n";
 
 }
 
